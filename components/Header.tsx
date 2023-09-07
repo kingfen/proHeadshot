@@ -13,7 +13,7 @@ export default function Header() {
           height={24}
         />
         <h1 className="sm:text-3xl text-xl font-bold ml-2 tracking-tight">
-          proHeadshot.pics
+          AI-Headshot
         </h1>
       </Link>
       {/* TODO: replace Github start with Authentication auth.js*/}
